@@ -1,0 +1,15 @@
+C:\Users\dani_\source\repos\Ahorcado\obj\Debug\net6.0\Ahorcado.csproj.AssemblyReference.cache
+C:\Users\dani_\source\repos\Ahorcado\obj\Debug\net6.0\Ahorcado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dani_\source\repos\Ahorcado\obj\Debug\net6.0\Ahorcado.AssemblyInfoInputs.cache
+C:\Users\dani_\source\repos\Ahorcado\obj\Debug\net6.0\Ahorcado.AssemblyInfo.cs
+C:\Users\dani_\source\repos\Ahorcado\obj\Debug\net6.0\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\dani_\source\repos\Ahorcado\bin\Debug\net6.0\Ahorcado.exe
+C:\Users\dani_\source\repos\Ahorcado\bin\Debug\net6.0\Ahorcado.deps.json
+C:\Users\dani_\source\repos\Ahorcado\bin\Debug\net6.0\Ahorcado.runtimeconfig.json
+C:\Users\dani_\source\repos\Ahorcado\bin\Debug\net6.0\Ahorcado.dll
+C:\Users\dani_\source\repos\Ahorcado\bin\Debug\net6.0\Ahorcado.pdb
+C:\Users\dani_\source\repos\Ahorcado\obj\Debug\net6.0\Ahorcado.dll
+C:\Users\dani_\source\repos\Ahorcado\obj\Debug\net6.0\refint\Ahorcado.dll
+C:\Users\dani_\source\repos\Ahorcado\obj\Debug\net6.0\Ahorcado.pdb
+C:\Users\dani_\source\repos\Ahorcado\obj\Debug\net6.0\Ahorcado.genruntimeconfig.cache
+C:\Users\dani_\source\repos\Ahorcado\obj\Debug\net6.0\ref\Ahorcado.dll
